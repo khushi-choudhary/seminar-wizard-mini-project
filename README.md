@@ -1,1 +1,2 @@
-# seminar-wizard-mini-project
+# seminar_wizard
+this is a database project on booking  seminar seats nd retriving info
